@@ -8,7 +8,6 @@
     <li>Introduction</li>
     <li>Features</li>
     <li>Installation</li>
-    <li>Usage</li>
     <li>Contributing</li>
   </ul>
 
@@ -27,8 +26,28 @@
 
   <ol>
     <li>Clone the repository :</li>
-    <p></p>
+    <p>https://github.com/shobhitsugumar/simple-chatting-app-.git</p>
+    <li>Navigate to the project directory :</li>
+    <p> cd simple-chatting-app</p>
+    <li>Install dependencies :</li>
+    <p>npm install </p>
+    <li>Start the server :</li>
+    <p> npm start </p>
+    <li>Open your web browser and go to http://localhost:3000 to view the application.</li>
   </ol>
+
+  <h2>Contributing</h2>
+  <p>Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:</p>
+
+  <ul>
+    <li>Fork the repository.</li>
+    <li>Create a new branch (git checkout -b feature/add-new-feature).</li>
+    <li>Make your changes.</li>
+    <li>Commit your changes (git commit -am 'Add new feature').</li>
+    <li>Push to the branch (git push origin feature/add-new-feature).</li>
+    <li>Create a new pull request.</li>
+  </ul>
+  
   
 </body>
 
